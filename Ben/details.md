@@ -12,10 +12,24 @@ Hours worked | Date | What's been done
 1/2 | 29/01/2018 | Research - I wanted to see how other universities did presentations like this so I googled around and found quite a few of their presentations online. I have some nice slides to consider adding
 1/6 | 29/01/2018 | Spent 10 minutes editing and putting photos into an album so I can include them in presentation. Will wait until Wednesday when I'm grading in Karate for proper photos as Karate will take a group photo of us. Shouldn't take too long to edit together a nice little 20 second movie about my first semester at university.
 
-## Reasoning
+## ToDo List
+ToDo | Done? | Notes
+--- | --- | ---
+Research other universities | 50% done | Need more data
+Find a dyslexic friendly font to use | | *NOT* Comic Sans
+Add more slides that explain the university | |
+Add a "my story" section" | | 
+Make sure to break the sterotype of american college vs british uni | | 
+Make a movie of my first semester | | 
+Promote Karate etc | | 
+Explain the students union | | 
+
+## What I've done
 Added more pictures, less text. Steve Jobs had no text in his presentations, be like Steve Jobs.
 
 Conflicting fonts - People have used *both* comic sans and arial on this presentation, making it look ugly. Fixed the fonts so they all match. Comic Sans is considered extremely ugly and a horrible graphical design choice.
 
-**TODO** Decide what is a dyslexic friendly font that looks nice and can be used in Powerpoint.
+Updated the powerpoint to use more modern memes. From my experience of presenting in schools students often engage more with memes, but not old person memes (defined as memes that are older than 5 months). Obviously this will go out of date quickly but it work's quite well if you update it alot.
+
+
 
