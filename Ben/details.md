@@ -13,6 +13,8 @@ Hours worked | Date | What's been done
 1/6 | 29/01/2018 | Spent 10 minutes editing and putting photos into an album so I can include them in presentation. Will wait until Wednesday when I'm grading in Karate for proper photos as Karate will take a group photo of us. Shouldn't take too long to edit together a nice little 20 second movie about my first semester at university.
 1/12 | 29/01/2018 | I spent 10 minutes outlining exactly what I need to do and any ideas. I halfed the time because I felt it was a bit tongue in cheek to get paid for outlining what to do. 1/12th of £8 is 0.60p :)
 2/6 | 30/01/2019 | I spent 20 minutes researching new people who have uni degrees that younger audiences can relate to. I found photos of these people and reached out to see if I can use photos of them in a presentation (since you would otherwise have to use royalty free photos, which of people are hard to get). Not expecting a response but it was worth a shot :)
+1 | 02/02/2018 | I've been interviewing people these past few days, formally too. I've got Pauline and Luis on board, just need Ian.
+2 | 03/02/2018 | Oh god every single image is a JPG which makes it very ugly when put onto large screens. ALSO WHO USES COMIC SANS!?!?!??! I've had to remake almost everything in this presentation. Added more sections, added some interview stuff
 
 ## ToDo List
 ToDo | Done? | Notes
