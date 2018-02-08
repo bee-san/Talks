@@ -4,6 +4,9 @@ I've been interested in working for this company ever since I was a child. I've 
 
 # What are my strengths?
 
+I think my biggest strength is my problem solving abillity. I can look at problems from different perspectives and really break down what a problem essentially is and in some cases I can repharse what a problem is which helps. This is very benefical in programming or cryptography where you essentially solve problems 90% of the time.
+
+
 # What are my weaknesses?
 Include an actual real weakness and how you work to overcome it
 

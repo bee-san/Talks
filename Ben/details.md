@@ -16,6 +16,8 @@ Hours worked | Date | What's been done
 1 | 02/02/2018 | I've been interviewing people these past few days, formally too. I've got Pauline and Luis on board, just need Ian.
 2 | 03/02/2018 | Oh god every single image is a JPG which makes it very ugly when put onto large screens. ALSO WHO USES COMIC SANS!?!?!??! I've had to remake almost everything in this presentation. Added more sections, added some interview stuff
 1 | 03/02/2018 | researched celebrities who have degrees. Found JME & Sacher Baron Cohen so far. Need to find one more celebrity the students know that has an impressive degree.
+1/2 | 07/02/2018 | Been working on my story for another presentation for Shaping Futures. Worked on making my story smaller to fit into this presentation.
+
 
 ## ToDo List
 ToDo | Done? | Notes
